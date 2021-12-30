@@ -1,6 +1,6 @@
 #Cutting-edge Studies on Natural Language-based Source Code Generation
 
-This is a study list selected by a well-designed snowballing process, and all analysis and research of the article **Recent Advances in Intelligent Source Code Generation: A Survey on Natural Language Based Studies** are based on this list.
+This is a study list selected by a well-designed snowballing process, and all analysis and research of the article **More than a framework: Sketching out technical enablers for natural language-based source generation** are based on this list.
 
 
 
